@@ -3,6 +3,10 @@
 	"undergrad":"The new course you want is Bee ess sea honours Computer Science Web and Internet Management. You can enrol on Computer Science, and take this course by choosing web options",
 	"postgrad":"The new course you want is emm ess sea Computer Science Software Engineering. It has modules on web you can take"
 	},
+	"cybersecurity":{
+	"undergrad":"The new course you want is Bee ess sea honours Computer Science Web and Cyber Security. You can enrol on Computer Science, and take this course by choosing web options",
+	"postgrad":"The new course you want is emm ess sea Computer Science Network Security. It has modules on web you can take"
+	},
 	"software development":{
 	"undergrad":"The new course you want is Bee ess sea honours Computer Science Software Development. You can specialise in programming languages. You can enrol on Computer Science, and take this course by choosing software development options",
 	"postgrad":"The new course you want is emm ess sea Computer Science Software Engineering."
