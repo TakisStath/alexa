@@ -1,10 +1,66 @@
-    
 {
-	'sea':'Sea major contains no sharps or flats, the notes are sea, dee, ee, ef, gee, a, bee, sea',
-	'dee':'Dee major contains two sharps, the notes are dee, ee, ef sharp, gee, a, bee, sea sharp, dee',
-	'ee': 'Ee major contains four sharps, the notes are ee, ef sharp, gee sharp, a , bee, sea sharp, dee sharp, ee',
-	'ef': 'ef scale',
-	'gee': 'gee scale',
-	'a':'a scale',
-	'bee':'bee scale'
+      'Sea':{
+      'major':'The	Sea		Major	scale has	no flats or sharps	, the notes are. 	Sea	,	Dee	,	Ee	,	Ef	,	Gee	,	A	,	Bee	,	Sea',
+      'minor':'The	Sea		Minor	scale has	three flats	, the notes are. 	Sea	,	Dee	,	Ee Flat	,	Ef	,	Gee	,	A Flat	,	Bee Flat	,	Sea'
+      },
+      'Sea Sharp':{
+      'major':'The	Sea	Sharp	Major	scale has	seven sharps	, the notes are. 	Sea Sharp	,	Dee Sharp	,	Ee Sharp	,	Ef Sharp	,	Gee Sharp	,	A Sharp	,	Bee Sharp	,	Sea Sharp',
+      'minor':'The	Sea	Sharp	Minor	scale has	four sharps	, the notes are. 	Sea Sharp	,	Dee Sharp	,	Ee	,	Ef Sharp	,	Gee Sharp	,	A	,	Bee	,	Sea Sharp'
+      },
+	  'Dee':{
+      'major':'The	Dee		Major	scale has	two sharps	, the notes are. 	Dee	,	Ee	,	Ef Sharp	,	Gee	,	A	,	Bee	,	Sea Sharp	,	Dee',
+      'minor':'The	Dee		Minor	scale has	one flat	, the notes are. 	Dee	,	Ee	,	Ef	,	Gee	,	A	,	Bee Flat	,	Sea	,	Dee'
+      },
+      'Dee Flat':{
+      'major':'The	Dee	flat	Major	scale has	five flats	, the notes are. 	Dee Flat	,	Ee Flat	,	Ef	,	Gee Flat	,	A Flat	,	Bee Flat	,	Sea	,	Dee',
+      'minor':'Dee Flat minor does not exist in the Circle of fifths, play the Sea Sharp minor instead it contains the same sounding notes'
+	  },
+	  'Dee Sharp':{
+      'major':'Dee Sharp major does not exist in the Circle of fifths, play the Ee flat major instead it contains the same sounding notes',
+      'minor':'The	Dee	Sharp	Minor	scale has	six shaps	, the notes are. 	Dee Sharp	,	Ee Sharp	,	Ef Sharp	,	Gee Sharp	,	A Sharp	,	Bee	,	Sea Sharp	,	Dee Sharp'
+      },
+      'Ee':{
+      'major':'The	Ee		Major	scale has	four sharps	, the notes are. 	Ee	,	Ef Sharp	,	Gee Sharp	,	A	,	Bee	,	Sea Sharp	,	Dee Sharp	,	Ee',
+      'minor':'The	Ee		Minor	scale has	one sharp	, the notes are. 	Ee	,	Ef Sharp	,	Gee	,	A	,	Bee	,	Sea	,	Dee	,	Ee'
+      },	  
+      'Ee flat':{
+      'major':'The	Ee	flat	Major	scale has	three flats	, the notes are. 	Ee Flat	,	Ef	,	Gee	,	A Flat	,	Bee Flat	,	Sea	,	Dee	,	Ee Flat',
+      'minor':'The	Ee	flat	Minor	scale has	six flats	, the notes are. 	Ee Flat	,	Ef	,	Gee Flat	,	A Flat	,	Bee Flat	,	Seab	,	Dee Flat	,	Ee Flat'
+      },
+      'Ef':{
+      'major':'The	Ef		Major	scale has	one flat	, the notes are. 	Ef	,	Gee	,	A	,	Bee Flat	,	Sea	,	Dee	,	Ee	,	Ef',
+      'minor':'The	Ef		Minor	scale has	four flats	, the notes are. 	Ef	,	Gee	,	A Flat	,	Bee Flat	,	Sea	,	Dee Flat	,	Ee Flat	,	Ef'
+      },	  
+      'Ef Sharp':{
+      'major':'The	Ef	Sharp	Major	scale has	six sharps	, the notes are. 	Ef Sharp	,	Gee Sharp	,	A Sharp	,	Bee	,	Sea Sharp	,	Dee Sharp	,	Ee Sharp	,	Ef Sharp',
+      'minor':'The	Ef	Sharp	Minor	scale has	three sharps	, the notes are. 	Ef Sharp	,	Gee Sharp	,	A	,	Bee	,	Sea Sharp	,	Dee	,	Ee	,	Ef Sharp'
+      },	
+      'Gee':{
+      'major':'The	Gee		Major	scale has	one sharp	, the notes are. 	Gee	,	A	,	Bee	,	Sea	,	Dee	,	Ee	,	Ef Sharp	,	Gee',
+      'minor':'The	Gee		Minor	scale has	two flats	, the notes are. 	Gee	,	A	,	Bee Flat	,	Sea	,	Dee	,	Ee Flat	,	Ef	,	Gee'
+      },	
+      'Gee Sharp':{
+      'major':'The	Gee	Sharp	Major	scale has	play A flat	, the notes are. 		,		,		,		,		,		,		,	',
+      'minor':'The	Gee	Sharp	Minor	scale has	five sharps	, the notes are. 	Gee Sharp	,	A Sharp	,	Bee	,	Sea Sharp	,	Dee Sharp	,	Ee	,	Ef Sharp	,	Gee Sharp'
+      },	
+      'A flat':{
+      'major':'The	A	flat	Major	scale has	four flats	, the notes are. 	A Flat	,	Bee Flat	,	Sea	,	Dee Flat	,	Ee Flat	,	Ef	,	Gee	,	A Flat',
+      'minor':'The	A	flat	Minor	scale has	seven flats	, the notes are. 	A Flat	,	Bee Flat	,	Seab	,	Dee Flat	,	Ee Flat	,	Ef Flat	,	Gee Flat	,	A Flat'
+      },	
+      'A':{
+      'major':'The	A		Major	scale has	three sharps	, the notes are. 	A	,	Bee	,	Sea Sharp	,	Dee	,	Ee	,	Ef Sharp	,	Gee Sharp	,	A',
+      'minor':'The	A		Minor	scale has	no flats or sharps	, the notes are. 	A	,	Bee	,	Sea	,	Dee	,	Ee	,	Ef	,	Gee	,	A'
+      },	
+      'A sharp':{
+      'major':'A Sharp major does not exist in the Circle of fifths, play the Bee flat major instead it contains the same sounding notes',
+      'minor':'The	A	Sharp	Minor	scale has	seven sharps	, the notes are. 	A Sharp	,	Bee Sharp	,	Sea Sharp	,	Dee Sharp	,	Ee Sharp	,	Ef Sharp	,	Gee Sharp	,	A Sharp'
+      },	
+      'Bee Flat':{
+      'major':'The	Bee	flat	Major	scale has	two flats	, the notes are. 	Bee Flat	,	Sea	,	Dee	,	Ee Flat	,	Ef	,	Gee	,	A	,	Bee Flat',
+      'minor':'The	Bee	flat	Minor	scale has	five flats	, the notes are. 	Bee Flat	,	Sea	,	Dee Flat	,	Ee Flat	,	Ef	,	Gee Flat	,	A Flat	,	Bee Flat'
+      },	
+      'Bee':{
+      'major':'The	Bee		Major	scale has	five sharps	, the notes are. 	Bee	,	Sea Sharp	,	Dee Sharp	,	Ee	,	Ef Sharp	,	Gee Sharp	,	A Sharp	,	Bee',
+      'minor':'The	Bee		Minor	scale has	two sharps	, the notes are. 	Bee	,	Sea Sharp	,	Dee	,	Ee	,	Ef Sharp	,	Gee	,	A	,	Bee'
+      }
   }
